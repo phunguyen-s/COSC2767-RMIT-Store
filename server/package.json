@@ -39,4 +39,8 @@
     "nodemon": "^1.19.1",
     "supertest": "^7.1.4"
   },
+  "scripts": {
+  "dev": "nodemon",
+  "test": "mocha tests/**/*.test.js"
+  }
 }
