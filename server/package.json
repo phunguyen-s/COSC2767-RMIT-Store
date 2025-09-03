@@ -32,8 +32,11 @@
     "validatorjs": "^3.18.1"
   },
   "devDependencies": {
+    "chai": "^6.0.1",
     "chalk": "^2.4.2",
     "cross-env": "^5.2.1",
-    "nodemon": "^1.19.1"
-  }
+    "mocha": "^11.7.2",
+    "nodemon": "^1.19.1",
+    "supertest": "^7.1.4"
+  },
 }
